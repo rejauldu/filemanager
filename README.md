@@ -2,7 +2,7 @@
 
 A good solution for managing files and folders for developers who can't access their site over SSH or FTP.
 
-![PHP File Manager](https://raw.github.com/alexantr/filemanager/master/phpfm.png)
+![PHP File Manager](https://raw.github.com/rejauldu/filemanager/master/phpfm.png)
 
 **WARNING! Do not use this script as a regular file manager in public area.
 After all actions you must delete this script from the server.**
@@ -64,10 +64,10 @@ Supported constants:
 ## Bug tracker
 
 If you have any issues with file manager, you may report them on
-[Issue tracker](https://github.com/alexantr/filemanager/issues).
+[Issue tracker](https://github.com/rejauldu/filemanager/issues).
 
 ## License
 
 This software is released under the MIT license.
 
-Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/).
+Icons by [Rejaul Karim](https://rejauldu.blogspot.com/).
